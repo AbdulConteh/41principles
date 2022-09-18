@@ -8,14 +8,16 @@
 
 .principle_list {
     display: flex;
-    width: 43%;
-    height: 755px;
+    width: 59%;
+    height: 1038px;
     flex-direction: column;
     align-items: center;
     overflow-y: scroll;
+    line-height: 54px;
+    background-color: lightgrey;
 }
+
 
 p {
     font-size: 25px;
-    background-color:cornsilk;
 }
